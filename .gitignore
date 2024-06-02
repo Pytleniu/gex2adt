@@ -134,3 +134,4 @@ venv.bak/
 .local_history/
 
 data/*
+models/*
