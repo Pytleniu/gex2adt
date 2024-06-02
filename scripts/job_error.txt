@@ -1,0 +1,606 @@
+[rank: 0] Global seed set to 42
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/layers' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/GEX_n_genes_by_counts' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/GEX_pct_counts_mt' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/GEX_size_factors' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/GEX_phase' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/GEX_phase' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/ADT_n_antibodies_by_counts' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/ADT_total_counts' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/ADT_iso_count' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/cell_type' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/cell_type' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/batch' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/batch' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/ADT_pseudotime_order' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/GEX_pseudotime_order' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/Samplename' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/Samplename' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/Site' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/Site' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/DonorNumber' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorNumber' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/Modality' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/Modality' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/VendorLot' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorID' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorAge' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorBMI' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/DonorBloodType' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorBloodType' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/DonorRace' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorRace' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/Ethnicity' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/Ethnicity' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/DonorGender' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorGender' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/QCMeds' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/QCMeds' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/DonorSmoker' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/DonorSmoker' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/__categories/is_train' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/is_train' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obs/_index' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/obsm' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/obsm/ADT_X_pca' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/obsm/ADT_X_umap' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Mouse-IgG1' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Mouse-IgG2a' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Mouse-IgG2b' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Rat-IgG2b' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Rat-IgG1' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/Rat-IgG2a' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/obsm/ADT_isotype_controls/_index' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/obsm/GEX_X_pca' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/obsm/GEX_X_umap' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/uns' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/uns/dataset_id' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/uns/genome' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/specs/registry.py:235: OldFormatWarning: Element '/uns/organism' was written without encoding metadata.
+  return self.callback(read_func, elem.name, elem, iospec=get_spec(elem))
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/var/__categories/feature_types' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/var/feature_types' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/var/__categories/gene_id' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/var/gene_id' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_io/utils.py:202: OldFormatWarning: Element '/var/_index' was written without encoding metadata.
+  return func(*args, **kwargs)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1840: UserWarning: Variable names are not unique. To make them unique, call `.var_names_make_unique`.
+  utils.warn_names_duplicates("var")
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+[rank: 0] Global seed set to 1
+[rank: 0] Global seed set to 1
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+You are using a CUDA device ('NVIDIA A100-SXM4-40GB') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name        | Type            | Params
+------------------------------------------------
+0 | encoder     | GaussianEncoder | 7.3 M 
+1 | gex_decoder | GaussianDecoder | 7.3 M 
+2 | adt_decoder | GaussianDecoder | 239 K 
+------------------------------------------------
+14.9 M    Trainable params
+0         Non-trainable params
+14.9 M    Total params
+59.571    Total estimated model params size (MB)
+SLURM auto-requeueing enabled. Setting signal handlers.
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/pytorch_lightning/loops/fit_loop.py:280: PossibleUserWarning: The number of training batches (32) is smaller than the logging interval Trainer(log_every_n_steps=50). Set a lower value for log_every_n_steps if you want to see logs for the training epoch.
+  rank_zero_warn(
+`Trainer.fit` stopped: `max_epochs=25` reached.
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/scib/metrics/isolated_labels.py:272: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  batch_per_lab = tmp.groupby(label_key).agg({batch_key: "count"})
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/scib/metrics/isolated_labels.py:272: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  batch_per_lab = tmp.groupby(label_key).agg({batch_key: "count"})
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/scib/metrics/isolated_labels.py:272: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  batch_per_lab = tmp.groupby(label_key).agg({batch_key: "count"})
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/umap/distances.py:1063: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @numba.jit()
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/umap/distances.py:1071: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @numba.jit()
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/umap/distances.py:1086: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @numba.jit()
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/umap/umap_.py:660: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @numba.jit()
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/anndata/_core/anndata.py:1113: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if not is_categorical_dtype(df_full[k]):
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:611: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  train_idx = np.where(batches[class_subsample_idx] != TEST_BATCH)
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:612: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  test_idx = np.where(batches[class_subsample_idx] == TEST_BATCH)
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:615: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  cell_labels_indices = [(label, np.where(cell_types[class_subsample_idx] == label)) for label in cell_types.unique()]
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:616: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  batch_labels_indices = [(label, np.where(batches[class_subsample_idx] == label)) for label in batches.unique()]
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:617: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  site_labels_indices = [(label, np.where(sites[class_subsample_idx] == label)) for label in sites.unique()]
+/net/people/plgrid/plgwpytlew/gex2adt-main/scripts/vanilla_training_better.py:618: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  donor_labels_indices = [(label, np.where(donors[class_subsample_idx] == label)) for label in donors.unique()]
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1498: DeprecationWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, pd.CategoricalDtype) instead
+  if pd.api.types.is_categorical_dtype(vector):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1119: FutureWarning: use_inf_as_na option is deprecated and will be removed in a future version. Convert inf values to NaN before operating instead.
+  with pd.option_context('mode.use_inf_as_na', True):
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/site-packages/seaborn/_oldcore.py:1075: FutureWarning: When grouping with a length-1 list-like, you will need to pass a length-1 tuple to get_group in a future version of pandas. Pass `(name,)` instead of `name` to silence this warning.
+  data_subset = grouped_data.get_group(pd_key)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/tempfile.py:895: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/net/tscratch/people/plgwpytlew/slurm_jobdir/732572/tmp/tmpt7e98d8c'>
+  _warnings.warn(warn_message, ResourceWarning)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/tempfile.py:895: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/net/tscratch/people/plgwpytlew/slurm_jobdir/732572/tmp/tmpa_4r_byjwandb'>
+  _warnings.warn(warn_message, ResourceWarning)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/tempfile.py:895: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/net/tscratch/people/plgwpytlew/slurm_jobdir/732572/tmp/tmp5gjlfr55wandb-artifacts'>
+  _warnings.warn(warn_message, ResourceWarning)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/tempfile.py:895: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/net/tscratch/people/plgwpytlew/slurm_jobdir/732572/tmp/tmptt5uybm6wandb-media'>
+  _warnings.warn(warn_message, ResourceWarning)
+/net/tscratch/people/plgwpytlew/gex2adt_v1/lib/python3.11/tempfile.py:895: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/net/tscratch/people/plgwpytlew/slurm_jobdir/732572/tmp/tmp1pp8mdm0wandb-media'>
+  _warnings.warn(warn_message, ResourceWarning)
